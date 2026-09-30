@@ -87,6 +87,14 @@ An interactive dashboard was created in Power BI to visualize sales and profitab
 - Monitor sales trends regularly to identify growth opportunities.
 - Use regional and category-level performance insights to support inventory and sales planning.
 
+## Project Outcome
+
+This project demonstrates how data analysis can be used to understand sales and profitability performance and identify important business trends. Using Excel, SQL, and Power BI, the analysis transformed raw sales data into meaningful insights that can support better business decisions related to products, regions, and profitability.
+
+## Dashboard Preview
+
+![Superstore Dashboard](dashboard.png)
+
 ## Project Structure
 
 ```text
@@ -110,7 +118,5 @@ Superstore-Data-Analysis/
 └── README.md
 ```
 
-## Project Outcome
 
-This project demonstrates how data analysis can be used to understand sales and profitability performance and identify important business trends. Using Excel, SQL, and Power BI, the analysis transformed raw sales data into meaningful insights that can support better business decisions related to products, regions, and profitability.
 
